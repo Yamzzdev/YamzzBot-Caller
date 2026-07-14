@@ -1,0 +1,22 @@
+# build & runtime — JANGAN di-commit
+yamzzbot
+yamzzbot_new
+*.exe
+
+# session WhatsApp = KREDENSIAL LOGIN — WAJIB rahasia
+*.db
+*.db-shm
+*.db-wal
+session.txt
+
+# runtime junk
+temp/
+/diag/
+*.log
+*.output
+*.zip
+
+# editor / os
+.claude/
+.DS_Store
+__pycache__/
