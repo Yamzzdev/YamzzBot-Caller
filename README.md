@@ -57,7 +57,7 @@ Bisa daftarin **banyak akun** buat nelpon/video call. Kalau sender 1 lagi sibuk 
 ## 🚀 Setup
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Yamzzdev/YamzzBot-Caller
 cd yamzzbot_vid
 
 # 1. Isi apikey theresav (buat .playvideo) di config.go -> TheresavAPIKey
